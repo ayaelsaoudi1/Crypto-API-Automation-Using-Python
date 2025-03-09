@@ -36,5 +36,3 @@ The script generates two key visualizations:
 - **CoinMarketCap**: [https://coinmarketcap.com/](https://coinmarketcap.com/)  
 - **CoinMarketCap API**: [https://coinmarketcap.com/api/](https://coinmarketcap.com/api/)  
 - **API Documentation**: [https://coinmarketcap.com/api/documentation/](https://coinmarketcap.com/api/documentation/)  
-
----
